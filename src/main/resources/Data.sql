@@ -1,1 +1,5 @@
 insert into user values (1, 'mohit', 'bhj@gmail.com')
+insert into category values (1,'travel')
+insert into category values (2,'grocery')
+insert into category values (3,'shopping')
+insert into category values (4,'car')
