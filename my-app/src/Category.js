@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { awaitExpression } from '@babel/types';
+import AppNav from './AppNav';
 
 export default class Category extends Component {
     state = {
